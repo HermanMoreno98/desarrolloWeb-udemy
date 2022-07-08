@@ -5,7 +5,7 @@
 node_modules
 
 # Ignorar gulp file
-.gulpfile.js
+gulpfile.js
 
 #Ignorar package 
-.package.json
+package.json
